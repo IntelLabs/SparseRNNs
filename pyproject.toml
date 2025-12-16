@@ -13,7 +13,7 @@ authors = [
     {name = "Jonathan Timcheck", email = "jonathan.timcheck@intel.com"},
 ]
 dependencies = [
-    "torch==2.7.0",
+    "torch>=2.8.0",
     "torchvision==0.22.0",
     "torchaudio==2.7.0",
     "torchtext==0.18.0",
